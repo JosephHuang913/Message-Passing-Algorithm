@@ -1,0 +1,76 @@
+BER Performance of Bit-based Message Passing in MIMO Channel
+Receiver Channel Selection
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Maximum Doppler frequency: 1157.407407
+Channel fading rate: 0.105822
+Maximum number of bits of simulation = 1024000
+
+Eb/No     BER
+BER Performance of Bit-based Message Passing in MIMO Channel
+Receiver Channel Selection
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Maximum Doppler frequency: 1157.407407
+Channel fading rate: 0.105822
+Maximum number of bits of simulation = 1024000
+
+Eb/No     BER
+0.000000:
+1.474609e-001 
+1.184896e-001 
+1.187337e-001 
+1.180013e-001 
+1.177572e-001 
+1.170247e-001 
+
+5.000000:
+8.676758e-002 
+5.659180e-002 
+5.390625e-002 
+5.268555e-002 
+5.229492e-002 
+5.053711e-002 
+
+10.000000:
+4.522705e-002 
+2.005005e-002 
+1.742554e-002 
+1.602173e-002 
+1.574707e-002 
+1.550293e-002 
+
+15.000000:
+1.495813e-002 
+3.903989e-003 
+2.746582e-003 
+2.425582e-003 
+2.237956e-003 
+2.262822e-003 
+
+20.000000:
+9.476563e-003 
+1.804688e-003 
+1.122070e-003 
+8.750000e-004 
+8.164062e-004 
+7.568359e-004 
+
+25.000000:
+7.457031e-003 
+1.267578e-003 
+7.343750e-004 
+5.605469e-004 
+4.677734e-004 
+4.638672e-004 
+
+30.000000:
+5.833083e-003 
+1.032903e-003 
+1.036659e-003 
+1.248873e-003 
+1.553110e-003 
+1.883639e-003 
+
+Total elapsed time: 8709(sec)
+

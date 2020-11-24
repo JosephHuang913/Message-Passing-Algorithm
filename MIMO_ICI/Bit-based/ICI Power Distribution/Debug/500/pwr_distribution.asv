@@ -1,0 +1,25 @@
+close all; 
+clear all;
+set(gca, 'fontsize', 14)
+
+load ICI_dist_ave.log;
+load ICI_distribution.log
+
+i=1:1:11;
+plot(i-1, 10*log10(ICI_distribution(i)), '-r',  'LineWidth', 2.0, 'MarkerSIze', 10);
+i=1:1:10;
+plot(i-1, 10*log10(ICI_distribution(i)), '-r',  'LineWidth', 2.0, 'MarkerSIze', 10);
+
+hold on;
+grid on;
+
+%plot(0, 1, 'w');
+
+
+title('ICI Power Distribution');
+xlabel('Subcarrier Index');
+ylabel('ICI Power (dB)');
+%axis([0 30 1e-3 1]);
+
+%legend(, 3);
+%print -djpeg100 ICI_pwr_distribution_500.jpg;

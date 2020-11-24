@@ -1,0 +1,183 @@
+BER Performance of coded MMSE Detector with PPIC in MIMO-OFDM system
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Vehicular speed: 350.000000 km/h
+Maximum Doppler frequency: 810.185185
+Channel fading rate: 0.083336
+Maximum number of bits of simulation = 8160
+
+Eb/No     BER
+BER Performance of coded MMSE Detector with PPIC in MIMO-OFDM system
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Vehicular speed: 350.000000 km/h
+Maximum Doppler frequency: 810.185185
+Channel fading rate: 0.083336
+Maximum number of bits of simulation = 8160
+
+Eb/No     BER
+BER Performance of coded MMSE Detector with PPIC in MIMO-OFDM system
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Vehicular speed: 350.000000 km/h
+Maximum Doppler frequency: 810.185185
+Channel fading rate: 0.083336
+Maximum number of bits of simulation = 8160
+
+Eb/No     BER
+BER Performance of coded MMSE Detector with PPIC in MIMO-OFDM system
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Vehicular speed: 350.000000 km/h
+Maximum Doppler frequency: 810.185185
+Channel fading rate: 0.083336
+Maximum number of bits of simulation = 8160
+
+Eb/No     BER
+BER Performance of coded MMSE Detector with PPIC in MIMO-OFDM system
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Vehicular speed: 350.000000 km/h
+Maximum Doppler frequency: 810.185185
+Channel fading rate: 0.083336
+Maximum number of bits of simulation = 8160
+
+Eb/No     BER
+BER Performance of coded MMSE Detector with PPIC in MIMO-OFDM system
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Vehicular speed: 350.000000 km/h
+Maximum Doppler frequency: 810.185185
+Channel fading rate: 0.083336
+Maximum number of bits of simulation = 8160
+
+Eb/No     BER
+0.000000:
+2.631127e-001 
+2.533088e-001 
+2.529412e-001 
+
+4.000000:
+1.814951e-001 
+1.628676e-001 
+1.625000e-001 
+
+8.000000:
+5.551471e-002 
+2.120098e-002 
+1.188725e-002 
+
+12.000000:
+2.438725e-002 
+3.553922e-003 
+1.593137e-003 
+
+16.000000:
+0.000000e+000 
+0.000000e+000 
+0.000000e+000 
+
+Total elapsed time: 115(sec)
+
+BER Performance of coded MMSE Detector with PPIC in MIMO-OFDM system
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Vehicular speed: 350.000000 km/h
+Maximum Doppler frequency: 810.185185
+Channel fading rate: 0.083336
+Maximum number of bits of simulation = 1020000
+
+Eb/No     BER
+0.000000:
+2.191176e-001 
+2.080882e-001 
+1.997549e-001 
+2.073529e-001 
+2.186275e-001 
+2.514706e-001 
+2.683824e-001 
+2.786765e-001 
+2.747549e-001 
+2.821078e-001 
+
+2.000000:
+2.100490e-001 
+1.975490e-001 
+1.992647e-001 
+2.066176e-001 
+2.235294e-001 
+2.453431e-001 
+2.713235e-001 
+2.715686e-001 
+2.691176e-001 
+2.843137e-001 
+
+4.000000:
+1.872549e-001 
+1.789216e-001 
+1.747549e-001 
+1.818627e-001 
+1.970588e-001 
+2.200980e-001 
+2.362745e-001 
+2.507353e-001 
+2.605392e-001 
+2.602941e-001 
+
+6.000000:
+8.464052e-002 
+4.064542e-002 
+2.888072e-002 
+2.896242e-002 
+3.272059e-002 
+3.941993e-002 
+4.325980e-002 
+4.546569e-002 
+4.689542e-002 
+4.795752e-002 
+
+8.000000:
+3.157790e-002 
+6.273185e-003 
+3.199523e-003 
+3.179650e-003 
+3.842077e-003 
+4.524377e-003 
+5.027822e-003 
+5.690249e-003 
+6.319555e-003 
+6.796502e-003 
+
+10.000000:
+1.988749e-002 
+2.360508e-003 
+1.060995e-003 
+9.705224e-004 
+1.156402e-003 
+1.411370e-003 
+1.630149e-003 
+1.732136e-003 
+1.834123e-003 
+1.804514e-003 
+

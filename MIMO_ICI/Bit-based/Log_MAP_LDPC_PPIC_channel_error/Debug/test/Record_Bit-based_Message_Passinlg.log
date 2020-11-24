@@ -1,0 +1,12 @@
+BER Performance of Bit-based Message Passinlg in MIMO Channel with Channel Estimation Error
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Vehicular speed: 350.000000 km/h
+Maximum Doppler frequency: 810.185185
+Channel fading rate: 0.083336
+Maximum number of bits of simulation = 10200000
+
+Eb/No     BER

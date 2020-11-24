@@ -1,0 +1,24 @@
+BER Performance of Bit-based Message Passing in MIMO Channel
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Maximum number of bits of simulation = 40960
+
+Eb/No     BER
+5.000000 5.090332e-001 20855.090332e-001 20855.090332e-001 2085
+10.000000 5.002441e-001 20495.002441e-001 20495.002441e-001 2049
+15.000000 4.965820e-001 20344.965820e-001 20344.965820e-001 2034
+
+Total elapsed time: 2300(sec)
+
+BER Performance of Bit-based Message Passing in MIMO Channel
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Maximum number of bits of simulation = 40960
+
+Eb/No     BER
+5.000000 3.527832e-001 14454.970703e-001 20365.004883e-001 2050
+10.000000 3.796387e-001 15554.965820e-001 20344.965820e-001 2034
+15.000000 3.212891e-001 13164.904785e-001 20094.904785e-001 2009
+
+Total elapsed time: 2173(sec)
+

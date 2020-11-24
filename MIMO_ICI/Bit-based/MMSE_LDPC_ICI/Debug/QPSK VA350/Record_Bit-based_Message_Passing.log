@@ -1,0 +1,134 @@
+BER Performance of coded MMSE Detector with PPIC in MIMO-OFDM system
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Vehicular speed: 350.000000 km/h
+Maximum Doppler frequency: 810.185185
+Channel fading rate: 0.083336
+Maximum number of bits of simulation = 10200000
+
+Eb/No     BER
+BER Performance of coded MMSE Detector with PPIC in MIMO-OFDM system
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Vehicular speed: 350.000000 km/h
+Maximum Doppler frequency: 810.185185
+Channel fading rate: 0.083336
+Maximum number of bits of simulation = 10200000
+
+Eb/No     BER
+0.000000:
+2.065870e-001 
+1.872396e-001 
+1.772825e-001 
+1.710172e-001 
+1.675551e-001 
+1.651042e-001 
+1.608762e-001 
+1.579197e-001 
+1.556985e-001 
+1.553615e-001 
+
+2.000000:
+1.670814e-001 
+1.398567e-001 
+1.259710e-001 
+1.190140e-001 
+1.143948e-001 
+1.111991e-001 
+1.071833e-001 
+1.034408e-001 
+1.003488e-001 
+9.827489e-002 
+
+4.000000:
+1.258514e-001 
+8.632611e-002 
+7.062264e-002 
+6.222910e-002 
+5.737874e-002 
+5.456656e-002 
+5.112659e-002 
+4.841761e-002 
+4.619453e-002 
+4.493464e-002 
+
+6.000000:
+7.096429e-002 
+3.145218e-002 
+2.028297e-002 
+1.585970e-002 
+1.397236e-002 
+1.268228e-002 
+1.131787e-002 
+1.029235e-002 
+9.552630e-003 
+8.973951e-003 
+
+8.000000:
+3.920208e-002 
+9.347068e-003 
+4.356784e-003 
+2.950839e-003 
+2.467719e-003 
+2.174990e-003 
+1.879403e-003 
+1.653901e-003 
+1.482020e-003 
+1.361308e-003 
+
+10.000000:
+1.809853e-002 
+1.734902e-003 
+5.557843e-004 
+3.302941e-004 
+2.678431e-004 
+2.219608e-004 
+1.906863e-004 
+1.689216e-004 
+1.454902e-004 
+1.351961e-004 
+
+12.000000:
+7.143529e-003 
+2.278431e-004 
+5.176471e-005 
+2.745098e-005 
+1.911765e-005 
+1.558824e-005 
+1.205882e-005 
+1.068627e-005 
+9.607843e-006 
+7.450980e-006 
+
+14.000000:
+3.430392e-003 
+5.754902e-005 
+1.088235e-005 
+4.117647e-006 
+2.450980e-006 
+1.960784e-006 
+1.568627e-006 
+2.254902e-006 
+2.549020e-006 
+2.058824e-006 
+
+16.000000:
+1.298725e-003 
+9.901961e-006 
+1.764706e-006 
+7.843137e-007 
+7.843137e-007 
+4.901961e-007 
+4.901961e-007 
+4.901961e-007 
+4.901961e-007 
+4.901961e-007 
+
+Total elapsed time: 175084(sec)
+

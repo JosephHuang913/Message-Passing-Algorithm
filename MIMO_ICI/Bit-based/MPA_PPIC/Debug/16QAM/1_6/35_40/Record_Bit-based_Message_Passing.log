@@ -1,0 +1,27 @@
+BER Performance of Bit-based Message Passing in MIMO Channel
+Receiver Channel Selection
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Maximum Doppler frequency: 810.185185
+Channel fading rate: 0.074075
+Maximum number of bits of simulation = 122880
+
+Eb/No     BER
+35.000000:
+6.103516e-002 
+2.343750e-002 
+4.327393e-002 
+7.073975e-002 
+9.576416e-002 
+1.209717e-001 
+
+40.000000:
+5.981445e-002 
+1.391602e-001 
+2.490234e-001 
+3.172607e-001 
+3.543701e-001 
+3.812256e-001 
+
+Total elapsed time: 141(sec)
+

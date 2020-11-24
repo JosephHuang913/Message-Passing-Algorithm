@@ -1,0 +1,79 @@
+BER Performance of Bit-based Message Passing in MIMO Channel
+Number of transmit antenna is 4
+Number of receive antenna is 4
+Vehicular speed: 250.000000 km/h
+Maximum Doppler frequency: 578.703704
+Channel fading rate: 0.059525
+Maximum number of bits of simulation = 1024000
+
+Eb/No     BER
+BER Performance of Bit-based Message Passing in MIMO Channel
+Number of transmit antenna is 4
+Number of receive antenna is 4
+Vehicular speed: 250.000000 km/h
+Maximum Doppler frequency: 578.703704
+Channel fading rate: 0.059525
+Maximum number of bits of simulation = 98304
+
+Eb/No     BER
+0.000000 2.009277e-001 1.718750e-001 
+4.000000 1.474609e-001 8.801270e-002 
+8.000000 1.363525e-001 5.187988e-002 
+12.000000 8.752441e-002 1.586914e-002 
+BER Performance of Bit-based Message Passing in MIMO Channel
+Number of transmit antenna is 4
+Number of receive antenna is 4
+Vehicular speed: 250.000000 km/h
+Maximum Doppler frequency: 578.703704
+Channel fading rate: 0.059525
+Maximum number of bits of simulation = 98304
+
+Eb/No     BER
+0.000000 1.881104e-001 1.441650e-001 
+BER Performance of Bit-based Message Passing in MIMO Channel
+Number of transmit antenna is 4
+Number of receive antenna is 4
+Vehicular speed: 250.000000 km/h
+Maximum Doppler frequency: 578.703704
+Channel fading rate: 0.059525
+Maximum number of bits of simulation = 98304
+
+Eb/No     BER
+0.000000 2.100830e-001 1.873779e-001 1.850586e-001 
+4.000000 1.379395e-001 7.104492e-002 5.371094e-002 
+8.000000 1.159668e-001 3.698730e-002 2.221680e-002 
+12.000000 7.480469e-002 1.032715e-002 3.076172e-003 
+Total elapsed time: 191(sec)
+
+BER Performance of Bit-based Message Passing in MIMO Channel
+Number of transmit antenna is 4
+Number of receive antenna is 4
+Vehicular speed: 250.000000 km/h
+Maximum Doppler frequency: 578.703704
+Channel fading rate: 0.059525
+Maximum number of bits of simulation = 1024000
+
+Eb/No     BER
+0.000000 1.984253e-001 1.656494e-001 1.607208e-001 1.594543e-001 1.592407e-001 1.587219e-001 1.581879e-001 1.582794e-001 1.584167e-001 1.583405e-001 
+2.000000 1.775124e-001 1.328680e-001 1.217818e-001 1.205278e-001 1.183527e-001 1.187966e-001 1.173762e-001 1.183416e-001 1.171209e-001 1.186080e-001 
+4.000000 1.394592e-001 8.193359e-002 6.725464e-002 6.471558e-002 6.327515e-002 6.309204e-002 6.264648e-002 6.284180e-002 6.204224e-002 6.213379e-002 
+6.000000 1.241680e-001 5.519184e-002 3.856458e-002 3.554174e-002 3.359825e-002 3.327058e-002 3.232615e-002 3.262168e-002 3.173828e-002 3.234863e-002 
+8.000000 1.156060e-001 4.028141e-002 2.446612e-002 2.141795e-002 1.956356e-002 1.961742e-002 1.859957e-002 1.876293e-002 1.773071e-002 1.821540e-002 
+10.000000 9.948633e-002 2.556152e-002 1.290820e-002 1.044238e-002 8.872070e-003 8.751953e-003 7.873047e-003 7.935547e-003 7.329102e-003 7.586914e-003 
+12.000000 7.804785e-002 1.206250e-002 5.114258e-003 3.877930e-003 3.111328e-003 2.910156e-003 2.589844e-003 2.482422e-003 2.287109e-003 2.340820e-003 
+14.000000 5.876855e-002 5.896484e-003 2.221680e-003 1.645508e-003 1.283203e-003 1.149414e-003 9.902344e-004 9.208984e-004 8.613281e-004 8.447266e-004 
+16.000000 3.839160e-002 2.239258e-003 7.539063e-004 5.136719e-004 3.876953e-004 3.789063e-004 3.183594e-004 3.144531e-004 2.841797e-004 2.900391e-004 
+Total elapsed time: 52001(sec)
+
+BER Performance of Bit-based Message Passing in MIMO Channel
+Number of transmit antenna is 4
+Number of receive antenna is 4
+Vehicular speed: 250.000000 km/h
+Maximum Doppler frequency: 578.703704
+Channel fading rate: 0.059525
+Maximum number of bits of simulation = 1024000
+
+Eb/No     BER
+15.000000 4.869629e-002 4.143555e-003 1.472656e-003 1.027344e-003 8.017578e-004 7.275391e-004 6.494141e-004 6.191406e-004 5.556641e-004 5.527344e-004 
+Total elapsed time: 10122(sec)
+

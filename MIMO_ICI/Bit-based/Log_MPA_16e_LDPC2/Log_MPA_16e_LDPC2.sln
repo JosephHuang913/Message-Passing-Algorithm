@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Log_MPA_16e_LDPC2", "Log_MPA_16e_LDPC2.vcproj", "{9A127EBF-DFE2-48A0-84F6-05E7A96A8D6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A127EBF-DFE2-48A0-84F6-05E7A96A8D6A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9A127EBF-DFE2-48A0-84F6-05E7A96A8D6A}.Debug|Win32.Build.0 = Debug|Win32
+		{9A127EBF-DFE2-48A0-84F6-05E7A96A8D6A}.Release|Win32.ActiveCfg = Release|Win32
+		{9A127EBF-DFE2-48A0-84F6-05E7A96A8D6A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

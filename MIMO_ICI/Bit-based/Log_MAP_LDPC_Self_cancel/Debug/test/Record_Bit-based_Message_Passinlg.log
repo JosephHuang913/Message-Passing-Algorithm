@@ -1,0 +1,64 @@
+BER Performance of Bit-based Message Passinlg in MIMO Channel
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Vehicular speed: 350.000000 km/h
+Maximum Doppler frequency: 810.185185
+Channel fading rate: 0.083336
+Maximum number of bits of simulation = 51000
+
+Eb/No     BER
+BER Performance of Bit-based Message Passinlg in MIMO Channel
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Vehicular speed: 350.000000 km/h
+Maximum Doppler frequency: 810.185185
+Channel fading rate: 0.083336
+Maximum number of bits of simulation = 51000
+
+Eb/No     BER
+BER Performance of Bit-based Message Passinlg in MIMO Channel
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Vehicular speed: 350.000000 km/h
+Maximum Doppler frequency: 810.185185
+Channel fading rate: 0.083336
+Maximum number of bits of simulation = 51000
+
+Eb/No     BER
+0.000000:
+1.857843e-001 
+4.000000:
+8.431373e-002 
+8.000000:
+1.088235e-002 
+12.000000:
+7.058824e-004 
+Total elapsed time: 561(sec)
+
+BER Performance of Bit-based Message Passinlg in MIMO Channel
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Vehicular speed: 350.000000 km/h
+Maximum Doppler frequency: 810.185185
+Channel fading rate: 0.083336
+Maximum number of bits of simulation = 51000
+
+Eb/No     BER
+0.000000:
+1.647059e-001 1.186275e-001 1.049020e-001 1.049020e-001 1.078431e-001 1.009804e-001 9.313725e-002 9.068627e-002 9.019608e-002 9.460784e-002 
+4.000000:
+6.617647e-002 1.965686e-002 1.303922e-002 9.852941e-003 9.656863e-003 9.607843e-003 9.117647e-003 8.970588e-003 7.696078e-003 6.470588e-003 
+8.000000:
+3.607843e-003 1.372549e-004 1.960784e-005 0.000000e+000 0.000000e+000 0.000000e+000 0.000000e+000 0.000000e+000 0.000000e+000 0.000000e+000 

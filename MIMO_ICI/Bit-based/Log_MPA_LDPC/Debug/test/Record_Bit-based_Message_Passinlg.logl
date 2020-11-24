@@ -1,0 +1,78 @@
+BER Performance of Bit-based Message Passinlg in MIMO Channel
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 4
+Number of receive antenna is 4
+Vehicular speed: 120.000000 km/h
+Maximum Doppler frequency: 277.777778
+Channel fading rate: 0.028572
+Maximum number of bits of simulation = 98160
+
+Eb/No     BER
+BER Performance of Bit-based Message Passinlg in MIMO Channel
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 4
+Number of receive antenna is 4
+Vehicular speed: 120.000000 km/h
+Maximum Doppler frequency: 277.777778
+Channel fading rate: 0.028572
+Maximum number of bits of simulation = 98160
+
+Eb/No     BER
+0.000000:
+2.291870e-001 2.062551e-001 1.993582e-001 1.958945e-001 4.181540e-001 4.998370e-001 4.998370e-001 4.998370e-001 4.998370e-001 4.998370e-001 
+
+BER Performance of Bit-based Message Passinlg in MIMO Channel
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 4
+Number of receive antenna is 4
+Vehicular speed: 120.000000 km/h
+Maximum Doppler frequency: 277.777778
+Channel fading rate: 0.028572
+Maximum number of bits of simulation = 98160
+
+Eb/No     BER
+8.000000:
+8.328240e-002 9.341891e-003 1.915240e-003 2.098615e-003 2.281989e-003 2.343113e-003 2.220864e-003 2.149552e-003 2.220864e-003 2.159739e-003 
+
+12.000000:
+4.277710e-002 2.037490e-004 1.324368e-004 8.149959e-005 4.074980e-005 2.037490e-005 0.000000e+000 0.000000e+000 0.000000e+000 0.000000e+000 
+
+BER Performance of Bit-based Message Passinlg in MIMO Channel
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 4
+Number of receive antenna is 4
+Vehicular speed: 120.000000 km/h
+Maximum Doppler frequency: 277.777778
+Channel fading rate: 0.028572
+Maximum number of bits of simulation = 1022500
+
+Eb/No     BER
+0.000000:
+2.329614e-001 2.082954e-001 1.989682e-001 1.934846e-001 1.894474e-001 1.863169e-001 1.841565e-001 1.830856e-001 1.834093e-001 1.831844e-001 
+
+2.000000:
+1.895521e-001 1.440430e-001 1.242601e-001 1.130924e-001 1.065780e-001 1.036108e-001 1.030406e-001 1.021222e-001 1.007325e-001 1.002406e-001 
+
+4.000000:
+1.502318e-001 8.207433e-002 5.401956e-002 4.130269e-002 3.842152e-002 3.996479e-002 3.953936e-002 3.835012e-002 3.727237e-002 3.667971e-002 
+
+6.000000:
+1.147413e-001 3.505330e-002 1.270416e-002 9.233252e-003 1.023765e-002 1.062592e-002 1.017115e-002 9.704645e-003 9.463081e-003 9.346699e-003 
+
+8.000000:
+8.678044e-002 9.955990e-003 1.852323e-003 1.916870e-003 2.057702e-003 2.115403e-003 2.030318e-003 2.015648e-003 1.927628e-003 1.826895e-003 
+
+10.000000:
+6.427579e-002 1.855257e-003 5.369193e-004 4.997555e-004 5.124694e-004 4.841076e-004 4.929095e-004 4.821516e-004 4.655257e-004 4.811736e-004 
+
+12.000000:
+4.481663e-002 1.995110e-004 1.466993e-004 8.997555e-005 8.704156e-005 8.019560e-005 8.508557e-005 7.726161e-005 8.019560e-005 8.312958e-005 
+

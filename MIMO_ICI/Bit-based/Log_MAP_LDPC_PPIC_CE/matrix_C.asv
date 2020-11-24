@@ -1,0 +1,22 @@
+close all;
+clear all;
+
+N = 1024;
+Ts = 102.86e-6;     % OFDM symbol duration with cyclic prefix
+
+for n=1:1:1024
+    for m=1:1:1024
+        if n==m
+            C1(n,m) = Ts * (1/4 - N/8);
+            C2(n,m) = Ts * (1/4 + N/8);
+        else
+            C1(n,m) = Ts * (-0.5/(1-exp(-j*2*pi*(n-m)/1024)) + (1-(-1).^(n-m))/(N*(1-exp(-j*2*pi*(n-m)/1024)).^2));
+            C2(n,m) = Ts * (-0.5/(1-exp(-j*2*pi*(n-m)/1024)) + (1-(-1).^(n-m))/(N*(1-exp(-j*2*pi*(n-m)/1024)).^2));
+        end
+    end
+end
+
+C1_I = Re(C1);
+C1_Q = Im(C1);
+C1_I = Re(C1);
+C1_Q = Im(C1);

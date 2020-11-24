@@ -1,0 +1,342 @@
+BER Performance of Bit-based Message Passinlg in MIMO Channel with Channel Estimation Error
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Vehicular speed: 350.000000 km/h
+Maximum Doppler frequency: 810.185185
+Channel fading rate: 0.083336
+Maximum number of bits of simulation = 10200000
+
+Eb/No     BER
+0.000000:
+2.497855e-001 
+2.220588e-001 
+2.045650e-001 
+1.908241e-001 
+1.802390e-001 
+1.743413e-001 
+1.705116e-001 
+1.665135e-001 
+1.627604e-001 
+1.617341e-001 
+
+2.000000:
+2.307157e-001 
+1.920392e-001 
+1.636863e-001 
+1.446961e-001 
+1.295686e-001 
+1.199216e-001 
+1.130098e-001 
+1.082059e-001 
+1.054804e-001 
+1.031863e-001 
+
+4.000000:
+1.995770e-001 
+1.489326e-001 
+1.128637e-001 
+8.874526e-002 
+7.219719e-002 
+6.056293e-002 
+5.262887e-002 
+4.715370e-002 
+4.317679e-002 
+3.971379e-002 
+
+6.000000:
+1.689244e-001 
+1.081998e-001 
+7.231492e-002 
+5.195450e-002 
+3.842697e-002 
+3.026647e-002 
+2.464021e-002 
+2.069193e-002 
+1.788587e-002 
+1.611205e-002 
+
+8.000000:
+1.492790e-001 
+7.912153e-002 
+4.405774e-002 
+2.711687e-002 
+1.794826e-002 
+1.249494e-002 
+9.128109e-003 
+6.796092e-003 
+5.344487e-003 
+4.302082e-003 
+
+10.000000:
+1.304180e-001 
+6.128383e-002 
+3.172846e-002 
+1.867371e-002 
+1.212407e-002 
+8.396161e-003 
+6.114333e-003 
+4.771127e-003 
+3.928128e-003 
+3.455882e-003 
+
+12.000000:
+1.343292e-001 
+7.042699e-002 
+4.582817e-002 
+3.316563e-002 
+2.598039e-002 
+2.160346e-002 
+1.864809e-002 
+1.673633e-002 
+1.543602e-002 
+1.465815e-002 
+
+14.000000:
+1.227252e-001 
+6.452358e-002 
+4.537150e-002 
+3.400988e-002 
+2.788446e-002 
+2.461108e-002 
+2.278804e-002 
+2.172460e-002 
+2.123643e-002 
+2.094069e-002 
+
+16.000000:
+9.260784e-002 
+1.079804e-001 
+1.085294e-001 
+1.037647e-001 
+1.021373e-001 
+1.013824e-001 
+1.012647e-001 
+1.009902e-001 
+1.009020e-001 
+1.007549e-001 
+
+Total elapsed time: 46453(sec)
+
+BER Performance of Bit-based Message Passinlg in MIMO Channel with Channel Estimation Error
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Vehicular speed: 350.000000 km/h
+Maximum Doppler frequency: 810.185185
+Channel fading rate: 0.083336
+Maximum number of bits of simulation = 10200000
+
+Eb/No     BER
+BER Performance of Bit-based Message Passinlg in MIMO Channel with Channel Estimation Error
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Vehicular speed: 350.000000 km/h
+Maximum Doppler frequency: 810.185185
+Channel fading rate: 0.083336
+Maximum number of bits of simulation = 10200000
+
+Eb/No     BER
+BER Performance of Bit-based Message Passinlg in MIMO Channel with Channel Estimation Error
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Vehicular speed: 350.000000 km/h
+Maximum Doppler frequency: 810.185185
+Channel fading rate: 0.083336
+Maximum number of bits of simulation = 10200000
+
+Eb/No     BER
+BER Performance of Bit-based Message Passinlg in MIMO Channel with Channel Estimation Error
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Vehicular speed: 350.000000 km/h
+Maximum Doppler frequency: 810.185185
+Channel fading rate: 0.083336
+Maximum number of bits of simulation = 102000
+
+Eb/No     BER
+4.000000:
+1.459608e-001 
+8.970588e-002 
+6.198039e-002 
+5.002941e-002 
+4.243137e-002 
+3.865686e-002 
+3.655882e-002 
+3.455882e-002 
+3.250000e-002 
+3.144118e-002 
+
+8.000000:
+6.637255e-002 
+1.181373e-002 
+3.254902e-003 
+1.500000e-003 
+9.019608e-004 
+8.627451e-004 
+6.176471e-004 
+6.372549e-004 
+5.000000e-004 
+4.607843e-004 
+
+12.000000:
+4.520588e-002 
+2.372549e-003 
+3.137255e-004 
+7.843137e-005 
+3.921569e-005 
+3.921569e-005 
+4.901961e-005 
+2.941176e-005 
+2.941176e-005 
+3.921569e-005 
+
+16.000000:
+2.482353e-002 
+4.019608e-004 
+4.901961e-005 
+1.960784e-005 
+0.000000e+000 
+0.000000e+000 
+0.000000e+000 
+0.000000e+000 
+0.000000e+000 
+0.000000e+000 
+
+Total elapsed time: 2449(sec)
+
+BER Performance of Bit-based Message Passinlg in MIMO Channel with Channel Estimation Error
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Vehicular speed: 350.000000 km/h
+Maximum Doppler frequency: 810.185185
+Channel fading rate: 0.083336
+Maximum number of bits of simulation = 10200000
+
+Eb/No     BER
+0.000000:
+2.479638e-001 
+2.277526e-001 
+2.156486e-001 
+2.086161e-001 
+2.034314e-001 
+2.007919e-001 
+1.977753e-001 
+1.963424e-001 
+1.938725e-001 
+1.938725e-001 
+
+2.000000:
+2.019075e-001 
+1.652813e-001 
+1.466326e-001 
+1.331735e-001 
+1.264599e-001 
+1.205669e-001 
+1.164003e-001 
+1.137894e-001 
+1.113704e-001 
+1.101982e-001 
+
+4.000000:
+1.613139e-001 
+1.076243e-001 
+8.171831e-002 
+6.665791e-002 
+5.840774e-002 
+5.306810e-002 
+5.026261e-002 
+4.779849e-002 
+4.565389e-002 
+4.391194e-002 
+
+6.000000:
+1.165972e-001 
+5.075266e-002 
+2.835274e-002 
+1.948427e-002 
+1.578840e-002 
+1.424530e-002 
+1.291462e-002 
+1.203942e-002 
+1.130617e-002 
+1.076287e-002 
+
+8.000000:
+8.330554e-002 
+2.116420e-002 
+7.920105e-003 
+4.481736e-003 
+3.446566e-003 
+2.974762e-003 
+2.643300e-003 
+2.359219e-003 
+2.152505e-003 
+2.001367e-003 
+
+10.000000:
+6.066961e-002 
+8.385980e-003 
+2.059118e-003 
+9.790196e-004 
+6.864706e-004 
+5.657843e-004 
+4.891176e-004 
+4.165686e-004 
+3.750000e-004 
+3.424510e-004 
+
+12.000000:
+4.015294e-002 
+2.373039e-003 
+3.603922e-004 
+1.331373e-004 
+8.274510e-005 
+6.049020e-005 
+5.029412e-005 
+3.892157e-005 
+2.950980e-005 
+2.490196e-005 
+
+14.000000:
+2.971814e-002 
+8.417647e-004 
+9.637255e-005 
+3.284314e-005 
+1.696078e-005 
+1.176471e-005 
+9.019608e-006 
+8.627451e-006 
+6.764706e-006 
+5.392157e-006 
+
+16.000000:
+2.308735e-002 
+3.867647e-004 
+3.852941e-005 
+1.117647e-005 
+4.607843e-006 
+2.941176e-006 
+1.372549e-006 
+1.372549e-006 
+4.901961e-007 
+5.882353e-007 
+
+Total elapsed time: 334485(sec)
+

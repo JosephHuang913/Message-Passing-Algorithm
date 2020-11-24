@@ -1,0 +1,43 @@
+close all;
+clear all;
+
+N = 1024;
+Ts = 102.86e-6;     % OFDM symbol duration with cyclic prefix
+
+for n=1:1:N
+    for m=1:1:N
+        if n==m
+            C1(n,m) = Ts * (1/4 - N/8);
+            C2(n,m) = Ts * (1/4 + N/8);
+        else
+            C1(n,m) = Ts * ( (-0.5 / ( 1 - exp( - i * 2 * pi * ( n - m ) / N ) ))  +  (( 1 - (( -1 ) .^ ( n - m )) ) / ( N * ( ( 1 - exp( -i * 2 * pi * ( n - m ) / N ) ) .^2 ) ) ));
+            C2(n,m) = Ts * ( (-0.5 / ( 1 - exp( - i * 2 * pi * ( n - m ) / N ) ))  +  (( 1 - (( -1 ) .^ ( n - m )) ) / ( N * ( ( 1 - exp( -i * 2 * pi * ( n - m ) / N ) ) .^2 ) ) ));
+        end
+    end
+end
+
+C1_I = real(C1);
+C1_Q = imag(C1);
+C2_I = real(C2);
+C2_Q = imag(C2);
+
+% mat_1I = fopen('C1_I.log', 'w');
+% mat_1Q = fopen('C1_Q.log', 'w');
+% mat_2I = fopen('C2_I.log', 'w');
+% mat_2Q = fopen('C2_Q.log', 'w');
+% for n=1:1:N
+%     for m=1:1:N
+%         fprintf(mat_1I, '%f ', C1_I(n,m));
+%         fprintf(mat_1Q, '%f ', C1_Q(n,m));
+%         fprintf(mat_2I, '%f ', C2_I(n,m));
+%         fprintf(mat_2Q, '%f ', C2_Q(n,m));
+%     end
+%     fprintf(mat_1I, '\n');
+%     fprintf(mat_1Q, '\n');
+%     fprintf(mat_2I, '\n');
+%     fprintf(mat_2Q, '\n');
+% end
+% fclose(mat_1I);
+% fclose(mat_1Q);
+% fclose(mat_2I);
+% fclose(mat_2Q);

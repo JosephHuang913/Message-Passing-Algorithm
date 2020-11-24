@@ -1,0 +1,73 @@
+BER Performance of Bit-based Message Passinlg in MIMO Channel with Channel Estimation Error
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Vehicular speed: 350.000000 km/h
+Maximum Doppler frequency: 810.185185
+Channel fading rate: 0.083336
+Maximum number of bits of simulation = 102000
+
+Eb/No     BER
+0.000000:
+2.664216e-001 
+2.664216e-001 
+2.639706e-001 
+
+4.000000:
+1.498775e-001 
+9.001225e-002 
+6.709559e-002 
+
+8.000000:
+4.204902e-002 
+4.274510e-003 
+1.000000e-003 
+
+12.000000:
+8.460784e-003 
+4.901961e-004 
+5.882353e-005 
+
+16.000000:
+3.235294e-004 
+0.000000e+000 
+0.000000e+000 
+
+Total elapsed time: 1407(sec)
+
+BER Performance of Bit-based Message Passinlg in MIMO Channel with Channel Estimation Error
+Gallager (20, 7) LDPC code
+Dimension of Parity Check matrix: (15,20)
+Column Weight = 3, Row Weight = 4
+Number of transmit antenna is 2
+Number of receive antenna is 2
+Vehicular speed: 350.000000 km/h
+Maximum Doppler frequency: 810.185185
+Channel fading rate: 0.083336
+Maximum number of bits of simulation = 1020000
+
+Eb/No     BER
+4.000000:
+1.404972e-001 
+9.082633e-002 
+7.156162e-002 
+
+8.000000:
+5.430784e-002 
+1.226667e-002 
+5.785294e-003 
+
+12.000000:
+1.227843e-002 
+5.813725e-004 
+1.333333e-004 
+
+16.000000:
+1.201961e-003 
+9.803922e-007 
+0.000000e+000 
+
+Total elapsed time: 17100(sec)
+
